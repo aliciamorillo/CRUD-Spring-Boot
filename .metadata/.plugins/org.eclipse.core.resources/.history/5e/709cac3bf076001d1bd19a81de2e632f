@@ -1,0 +1,8 @@
+package modelo;
+
+import javax.*;
+
+@Entity
+public class Usuario {
+	
+}
